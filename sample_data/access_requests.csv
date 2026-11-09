@@ -1,0 +1,34 @@
+EmployeeId,UserPrincipalName,Item,Kind,Status,Ticket,Approver
+N-10401,ivan.romero@northwind.example,Warehouse Management System,Application,Pending approval,ACC-7100,pablo.navarro@northwind.example
+N-10402,elena.castro@northwind.example,Trading Platform (OMS),Application,Fulfilled,ACC-7101,javier.ortega@northwind.example
+N-10402,elena.castro@northwind.example,trading-confirmations,Shared mailbox,Fulfilled,ACC-7102,javier.ortega@northwind.example
+N-10403,rui.almeida@northwind.example,Dynamics 365 Sales,Application,Fulfilled,ACC-7103,ana.sousa@northwind.example
+N-10404,marta.gil@northwind.example,Warehouse Management System,Application,Fulfilled,ACC-7104,pablo.navarro@northwind.example
+N-10405,sergio.pastor@northwind.example,SAP S/4HANA Finance,Application,Fulfilled,ACC-7105,jordi.puig@northwind.example
+N-10406,laia.vidal@northwind.example,Adobe Creative Cloud,Application,Fulfilled,ACC-7106,carla.mir@northwind.example
+N-10407,daniel.moreno@northwind.example,Bloomberg Terminal,Application,Pending approval,ACC-7107,market-data@northwind.example
+N-10407,daniel.moreno@northwind.example,Trading Platform (OMS),Application,Fulfilled,ACC-7108,javier.ortega@northwind.example
+N-10407,daniel.moreno@northwind.example,trading-confirmations,Shared mailbox,Fulfilled,ACC-7109,javier.ortega@northwind.example
+N-10408,clara.benitez@northwind.example,SAP S/4HANA Finance,Application,Fulfilled,ACC-7110,isabel.prieto@northwind.example
+N-10409,pau.serra@northwind.example,SAP S/4HANA Finance,Application,Fulfilled,ACC-7111,jordi.puig@northwind.example
+N-10410,nuno.costa@northwind.example,Workday,Application,Fulfilled,ACC-7112,patricia.lozano@northwind.example
+N-10410,nuno.costa@northwind.example,hr-team,Shared mailbox,Fulfilled,ACC-7113,patricia.lozano@northwind.example
+N-10411,andrea.molina@northwind.example,Jira Service Management,Application,Fulfilled,ACC-7114,ruben.iglesias@northwind.example
+N-10412,hugo.herrera@northwind.example,Warehouse Management System,Application,Fulfilled,ACC-7115,pablo.navarro@northwind.example
+N-10413,sara.leon@northwind.example,Dynamics 365 Sales,Application,Fulfilled,ACC-7116,alberto.nieto@northwind.example
+N-10414,joana.ferreira@northwind.example,SAP S/4HANA Finance,Application,Fulfilled,ACC-7117,marta.sousa@northwind.example
+N-10342,lucia.ferrer2@northwind.example,Dynamics 365 Sales,Application,Fulfilled,ACC-7118,alberto.nieto@northwind.example
+N-10416,oscar.rubio@northwind.example,Dynamics 365 Sales,Application,Fulfilled,ACC-7119,nuria.font@northwind.example
+N-10417,irene.campos@northwind.example,Workday,Application,Fulfilled,ACC-7120,patricia.lozano@northwind.example
+N-10417,irene.campos@northwind.example,hr-team,Shared mailbox,Fulfilled,ACC-7121,patricia.lozano@northwind.example
+N-10418,tomas.delgado@northwind.example,Trading Platform (OMS),Application,Approved,ACC-7122,javier.ortega@northwind.example
+N-10418,tomas.delgado@northwind.example,trading-confirmations,Shared mailbox,Fulfilled,ACC-7123,javier.ortega@northwind.example
+N-10419,beatriz.ortiz@northwind.example,SAP S/4HANA Finance,Application,Fulfilled,ACC-7124,isabel.prieto@northwind.example
+N-10420,goncalo.pires@northwind.example,Dynamics 365 Sales,Application,Fulfilled,ACC-7125,ana.sousa@northwind.example
+N-10421,nerea.vega@northwind.example,SAP S/4HANA Finance,Application,Fulfilled,ACC-7126,jordi.puig@northwind.example
+N-10422,raquel.soto@northwind.example,Warehouse Management System,Application,Fulfilled,ACC-7127,pablo.navarro@northwind.example
+N-10423,miguel.cano@northwind.example,Warehouse Management System,Application,Fulfilled,ACC-7128,pablo.navarro@northwind.example
+N-10424,carlos.ibarra@northwind.example,Bloomberg Terminal,Application,Fulfilled,ACC-7129,javier.ortega@northwind.example
+N-10424,carlos.ibarra@northwind.example,Trading Platform (OMS),Application,Fulfilled,ACC-7130,javier.ortega@northwind.example
+N-10424,carlos.ibarra@northwind.example,trading-confirmations,Shared mailbox,Fulfilled,ACC-7131,javier.ortega@northwind.example
+N-10425,ines.matos@northwind.example,SAP S/4HANA Finance,Application,Fulfilled,ACC-7132,marta.sousa@northwind.example

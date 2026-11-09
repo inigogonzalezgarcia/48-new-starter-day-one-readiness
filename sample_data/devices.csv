@@ -1,0 +1,25 @@
+DeviceName,SerialNumber,UserPrincipalName,OperatingSystem,Model,ComplianceState,ManagementState,LastSyncDateTime,ManagedDeviceOwnerType,IsEncrypted
+BCN-L0213,DTVWTM8,sergio.pastor@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-06T11:00:00Z,company,True
+BCN-L0214,SC6GLYQ,pau.serra@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-07T12:00:00Z,company,True
+BCN-L0215,6W4V6YL,oscar.rubio@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-06T21:00:00Z,company,True
+BCN-P532,478B6V4LNZ,oscar.rubio@northwind.example,iOS,iPhone 16e,compliant,managed,2026-11-05T14:00:00Z,company,True
+LIS-L0088,N76SJKW,rui.almeida@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-09T01:00:00Z,company,True
+LIS-L0089,458YVNL,nuno.costa@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-08T15:00:00Z,company,True
+LIS-L0090,6S2WXPM,joana.ferreira@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-07T09:00:00Z,company,True
+LIS-L0091,JGLPBGD,goncalo.pires@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-07T22:00:00Z,company,True
+LIS-L0092,MHCZ317,ines.matos@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-06T10:00:00Z,company,True
+LIS-P266,4H602F24HP,rui.almeida@northwind.example,iOS,iPhone 16e,compliant,managed,2026-11-06T01:00:00Z,company,True
+MAD-L0406,TZJ6QSF,elena.castro@northwind.example,Windows,Latitude 7450,noncompliant,managed,2026-11-07T05:00:00Z,company,False
+MAD-L0407,HQ3S374,daniel.moreno@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-08T02:00:00Z,company,True
+MAD-L0408,TLYPNDH,clara.benitez@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-08T14:00:00Z,company,True
+MAD-L0409,YDLFSNQ,andrea.molina@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-06T09:00:00Z,company,True
+MAD-L0410,0R0PNBC,sara.leon@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-06T19:00:00Z,company,True
+MAD-L0411,DKF18M0,lucia.ferrer2@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-08T00:00:00Z,company,True
+MAD-L0412,VJ0R8NM,irene.campos@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-07T03:00:00Z,company,True
+MAD-L0413,YD1CKRX,carlos.ibarra@northwind.example,Windows,Latitude 7450,compliant,managed,2026-11-07T05:00:00Z,company,True
+MAD-P425,XDPF2Q7ZZG,lucia.ferrer2@northwind.example,iOS,iPhone 16e,compliant,managed,2026-11-06T00:00:00Z,company,True
+MAD-P476,HKPBTF3S0T,daniel.moreno@northwind.example,iOS,iPhone 16e,compliant,managed,2026-11-07T15:00:00Z,company,True
+MAD-P561,NTWMGJWVG3,sara.leon@northwind.example,iOS,iPhone 16e,compliant,managed,2026-11-08T11:00:00Z,company,True
+MAD-P800,6WPBK4JSK6,carlos.ibarra@northwind.example,iOS,iPhone 16e,compliant,managed,2026-11-05T14:00:00Z,company,True
+VLC-L0119,YBQB3V7,marta.gil@northwind.example,Windows,Latitude 5550,compliant,managed,2026-11-07T18:00:00Z,company,True
+VLC-P460,8N0YXLX9N4,marta.gil@northwind.example,Android,Galaxy XCover7,compliant,managed,2026-11-08T20:00:00Z,company,True

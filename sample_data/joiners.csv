@@ -1,0 +1,28 @@
+EmployeeId,Name,StartDate,Site,Department,JobTitle,Manager,ContractType,DeviceType,Phone,Ticket,Raised
+N-10401,Iván Romero,2026-11-10,VLC,Operations,Warehouse Operative,pablo.navarro@northwind.example,Temporary,None,No,REQ-4521,2026-11-06
+N-10402,Elena Castro,2026-11-10,MAD,Trading,Trading Assistant,javier.ortega@northwind.example,Permanent,Windows laptop,No,REQ-4410,2026-10-15
+N-10403,Rui Almeida,2026-11-10,LIS,Sales,Account Manager,ana.sousa@northwind.example,Permanent,Windows laptop,Yes,REQ-4428,2026-10-20
+N-10404,Marta Gil,2026-11-11,VLC,Operations,Warehouse Supervisor,pablo.navarro@northwind.example,Permanent,Windows laptop,Yes,REQ-4433,2026-10-21
+N-10405,Sergio Pastor,2026-11-12,BCN,Finance,Financial Analyst,jordi.puig@northwind.example,Permanent,Windows laptop,No,REQ-4437,2026-10-22
+N-10406,Laia Vidal,2026-11-13,BCN,Marketing,Marketing Specialist,carla.mir@northwind.example,Permanent,MacBook,No,REQ-4441,2026-10-23
+N-10407,Daniel Moreno,2026-11-16,MAD,Trading,Trader,javier.ortega@northwind.example,Permanent,Windows laptop,Yes,REQ-4444,2026-10-23
+N-10408,Clara Benítez,2026-11-16,MAD,Finance,Financial Analyst,isabel.prieto@northwind.example,Permanent,Windows laptop,No,REQ-4446,2026-10-26
+N-10409,Pau Serra,2026-11-16,BCN,Finance,Financial Analyst,jordi.puig@northwind.example,Permanent,Windows laptop,No,REQ-4447,2026-10-26
+N-10410,Nuno Costa,2026-11-16,LIS,HR,HR Advisor,patricia.lozano@northwind.example,Permanent,Windows laptop,No,REQ-4449,2026-10-27
+N-10411,Andrea Molina,2026-11-16,MAD,IT,Service Desk Analyst,ruben.iglesias@northwind.example,Permanent,Windows laptop,No,REQ-4450,2026-10-27
+N-10412,Hugo Herrera,2026-11-16,VLC,Operations,Warehouse Operative,pablo.navarro@northwind.example,Temporary,None,No,REQ-4452,2026-10-28
+N-10413,Sara León,2026-11-16,MAD,Sales,Account Manager,alberto.nieto@northwind.example,Permanent,Windows laptop,Yes,REQ-4453,2026-10-28
+N-10414,Joana Ferreira,2026-11-17,LIS,Finance,Financial Analyst,marta.sousa@northwind.example,Permanent,Windows laptop,No,REQ-4456,2026-10-29
+N-10342,Lucía Ferrer,2026-11-18,MAD,Sales,Account Manager,alberto.nieto@northwind.example,Permanent,Windows laptop,Yes,REQ-4460,2026-10-30
+N-10416,Óscar Rubio,2026-11-19,BCN,Sales,Account Manager,nuria.font@northwind.example,Permanent,Windows laptop,Yes,REQ-4462,2026-10-30
+N-10417,Irene Campos,2026-11-20,MAD,HR,HR Advisor,patricia.lozano@northwind.example,Fixed term,Windows laptop,No,REQ-4465,2026-11-02
+N-10418,Tomás Delgado,2026-11-23,MAD,Trading,Trading Assistant,javier.ortega@northwind.example,Permanent,Windows laptop,No,REQ-4468,2026-11-03
+N-10419,Beatriz Ortiz,2026-11-23,MAD,Finance,Financial Analyst,isabel.prieto@northwind.example,Permanent,Windows laptop,No,REQ-4469,2026-11-03
+N-10420,Gonçalo Pires,2026-11-23,LIS,Sales,Account Manager,ana.sousa@northwind.example,Permanent,Windows laptop,No,REQ-4471,2026-11-04
+N-10421,Nerea Vega,2026-11-23,BCN,Finance,Financial Analyst,jordi.puig@northwind.example,Permanent,Windows laptop,No,REQ-4472,2026-11-04
+N-10422,Raquel Soto,2026-11-23,VLC,Operations,Warehouse Operative,pablo.navarro@northwind.example,Temporary,None,No,REQ-4474,2026-11-04
+N-10423,Miguel Ángel Cano,2026-11-23,VLC,Operations,Warehouse Operative,pablo.navarro@northwind.example,Temporary,None,No,REQ-4475,2026-11-04
+N-10424,Carlos Ibarra,2026-11-23,MAD,Trading,Trader,javier.ortega@northwind.example,Permanent,Windows laptop,Yes,REQ-4476,2026-11-05
+N-10425,Inês Matos,2026-11-23,LIS,Finance,Financial Analyst,marta.sousa@northwind.example,Permanent,Windows laptop,No,REQ-4478,2026-11-05
+N-10426,Alba Romero,2026-11-24,MAD,Finance,Financial Analyst,isabel.prieto@northwind.example,Permanent,Windows laptop,No,REQ-4480,2026-11-06
+N-10427,David Ruiz,2026-12-01,BCN,Sales,Account Manager,nuria.font@northwind.example,Permanent,Windows laptop,Yes,REQ-4482,2026-11-06

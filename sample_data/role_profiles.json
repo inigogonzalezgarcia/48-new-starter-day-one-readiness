@@ -1,0 +1,179 @@
+{
+  "profiles": [
+    {
+      "name": "Trader",
+      "job_titles": [
+        "Trader"
+      ],
+      "licence": "SPE_E5",
+      "groups": [
+        "SG-Trading-Desk",
+        "SG-MarketData-Users",
+        "SG-Site-{site}",
+        "SG-All-Staff"
+      ],
+      "distribution_lists": [
+        "DL-Trading"
+      ],
+      "apps": [
+        "Bloomberg Terminal",
+        "Trading Platform (OMS)"
+      ],
+      "shared_mailboxes": [
+        "trading-confirmations"
+      ],
+      "phone_required": true
+    },
+    {
+      "name": "Trading Assistant",
+      "job_titles": [
+        "Trading Assistant"
+      ],
+      "licence": "SPE_E3",
+      "groups": [
+        "SG-Trading-Support",
+        "SG-Site-{site}",
+        "SG-All-Staff"
+      ],
+      "distribution_lists": [
+        "DL-Trading"
+      ],
+      "apps": [
+        "Trading Platform (OMS)"
+      ],
+      "shared_mailboxes": [
+        "trading-confirmations"
+      ]
+    },
+    {
+      "name": "Financial Analyst",
+      "job_titles": [
+        "Financial Analyst"
+      ],
+      "licence": "SPE_E3",
+      "groups": [
+        "SG-Finance",
+        "SG-Finance-Reports",
+        "SG-Site-{site}",
+        "SG-All-Staff"
+      ],
+      "distribution_lists": [
+        "DL-Finance"
+      ],
+      "apps": [
+        "SAP S/4HANA Finance"
+      ]
+    },
+    {
+      "name": "Account Manager",
+      "job_titles": [
+        "Account Manager"
+      ],
+      "licence": "SPE_E3",
+      "groups": [
+        "SG-Sales",
+        "SG-CRM-Users",
+        "SG-Site-{site}",
+        "SG-All-Staff"
+      ],
+      "distribution_lists": [
+        "DL-Sales-{site}"
+      ],
+      "apps": [
+        "Dynamics 365 Sales"
+      ],
+      "phone_required": true
+    },
+    {
+      "name": "Warehouse Operative",
+      "job_titles": [
+        "Warehouse Operative"
+      ],
+      "licence": "SPE_F1",
+      "groups": [
+        "SG-Warehouse-{site}",
+        "SG-Site-{site}"
+      ],
+      "apps": [
+        "Warehouse Management System"
+      ],
+      "mfa_required": false
+    },
+    {
+      "name": "Warehouse Supervisor",
+      "job_titles": [
+        "Warehouse Supervisor"
+      ],
+      "licence": "SPE_E3",
+      "groups": [
+        "SG-Warehouse-{site}",
+        "SG-Warehouse-Supervisors",
+        "SG-Site-{site}",
+        "SG-All-Staff"
+      ],
+      "apps": [
+        "Warehouse Management System"
+      ],
+      "phone_required": true
+    },
+    {
+      "name": "Marketing Specialist",
+      "job_titles": [
+        "Marketing Specialist"
+      ],
+      "licence": "SPE_E3",
+      "groups": [
+        "SG-Marketing",
+        "SG-Adobe-CC-Users",
+        "SG-Site-{site}",
+        "SG-All-Staff"
+      ],
+      "apps": [
+        "Adobe Creative Cloud"
+      ]
+    },
+    {
+      "name": "Service Desk Analyst",
+      "job_titles": [
+        "Service Desk Analyst"
+      ],
+      "licence": "SPE_E3",
+      "groups": [
+        "SG-IT-ServiceDesk",
+        "SG-Site-{site}",
+        "SG-All-Staff"
+      ],
+      "apps": [
+        "Jira Service Management"
+      ],
+      "privileged_allowed": [
+        "SG-PIM-Helpdesk-Administrators"
+      ]
+    },
+    {
+      "name": "HR Advisor",
+      "job_titles": [
+        "HR Advisor"
+      ],
+      "licence": "SPE_E3",
+      "groups": [
+        "SG-HR",
+        "SG-Site-{site}",
+        "SG-All-Staff"
+      ],
+      "apps": [
+        "Workday"
+      ],
+      "shared_mailboxes": [
+        "hr-team"
+      ]
+    }
+  ],
+  "default": {
+    "licence": "SPE_E3",
+    "groups": [
+      "SG-Site-{site}",
+      "SG-All-Staff"
+    ]
+  }
+}
