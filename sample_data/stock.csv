@@ -1,0 +1,11 @@
+Site,DeviceType,Model,InStock,Reserved
+MAD,Windows laptop,Dell Latitude 7450,8,2
+MAD,MacBook,MacBook Air 13 M4,2,0
+MAD,Phone,iPhone 16e,4,1
+BCN,Windows laptop,Dell Latitude 7450,3,0
+BCN,MacBook,MacBook Air 13 M4,1,1
+BCN,Phone,iPhone 16e,2,0
+VLC,Windows laptop,Dell Latitude 5550,2,0
+VLC,Phone,Samsung Galaxy XCover7,3,0
+LIS,Windows laptop,Dell Latitude 7450,2,0
+LIS,Phone,iPhone 16e,1,0

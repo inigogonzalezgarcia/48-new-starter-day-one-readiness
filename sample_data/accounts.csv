@@ -1,0 +1,27 @@
+UserPrincipalName,DisplayName,EmployeeId,AccountEnabled,CreatedDateTime,Department,JobTitle,Manager,UsageLocation,AssignedLicenses,Groups,MfaMethods,TemporaryAccessPass,OnPremisesSyncEnabled
+andrea.molina@northwind.example,Andrea Molina,N-10411,True,2026-10-29T17:35:00Z,IT,Service Desk Analyst,ruben.iglesias@northwind.example,ES,SPE_E3,SG-IT-ServiceDesk;SG-Site-MAD;SG-All-Staff;SG-PIM-Helpdesk-Administrators,0,,False
+beatriz.ortiz@northwind.example,Beatriz Ortiz,N-10419,True,2026-11-03T10:48:00Z,Finance,Financial Analyst,isabel.prieto@northwind.example,ES,,SG-Finance;SG-Finance-Reports;SG-Site-MAD;SG-All-Staff;DL-Finance,0,,False
+carlos.ibarra@northwind.example,Carlos Ibarra,N-10424,True,2026-11-05T14:54:00Z,Trading,Trader,javier.ortega@northwind.example,ES,SPE_E5,SG-Trading-Desk;SG-MarketData-Users;SG-Site-MAD;SG-All-Staff;DL-Trading,0,,False
+clara.benitez@northwind.example,Clara Benítez,N-10408,True,2026-10-27T14:00:00Z,Finance,Financial Analyst,isabel.prieto@northwind.example,ES,SPE_E3,SG-Finance;SG-Finance-Reports;SG-Site-MAD;SG-All-Staff;DL-Finance;SG-IT-ServiceDesk;SG-Role-Exchange-Administrators,0,,False
+daniel.moreno@northwind.example,Daniel Moreno,N-10407,True,2026-10-25T13:37:00Z,Trading,Trader,javier.ortega@northwind.example,ES,SPE_E5,SG-Trading-Desk;SG-MarketData-Users;SG-Site-MAD;SG-All-Staff;DL-Trading,0,,False
+elena.castro@northwind.example,Elena Castro,N-10402,True,2026-10-17T17:19:00Z,Trading,Trading Assistant,javier.ortega@northwind.example,ES,SPE_E3,SG-Trading-Support;SG-Site-MAD;SG-All-Staff;DL-Trading,0,,False
+goncalo.pires@northwind.example,Gonçalo Pires,N-10420,True,2026-11-05T17:49:00Z,Sales,Account Manager,ana.sousa@northwind.example,PT,,SG-Sales;SG-CRM-Users;SG-Site-LIS;SG-All-Staff;DL-Sales-LIS,0,,False
+hugo.herrera@northwind.example,Hugo Herrera,N-10412,True,2026-10-29T17:18:00Z,Operations,Warehouse Operative,pablo.navarro@northwind.example,ES,SPE_F1,SG-Warehouse-VLC;SG-Site-VLC,0,,False
+ines.matos@northwind.example,Inês Matos,N-10425,True,2026-11-05T16:09:00Z,Finance,Financial Analyst,marta.sousa@northwind.example,PT,SPE_E3,SG-Finance;SG-Finance-Reports;SG-Site-LIS;SG-All-Staff;DL-Finance,0,,False
+irene.campos@northwind.example,Irene Campos,N-10417,True,2026-11-02T10:24:00Z,HR,HR Advisor,patricia.lozano@northwind.example,ES,SPE_E3,SG-HR;SG-Site-MAD;SG-All-Staff,0,,False
+ivan.romero@northwind.example,Iván Romero,N-10401,True,2026-11-06T17:40:00Z,Operations,Warehouse Operative,pablo.navarro@northwind.example,ES,SPE_F1,SG-Site-VLC,0,,False
+joana.ferreira@northwind.example,Joana Ferreira,N-10414,True,2026-10-29T16:10:00Z,Finance,Financial Analyst,marta.sousa@northwind.example,PT,SPE_E3,SG-Finance;SG-Finance-Reports;SG-Site-LIS;SG-All-Staff;DL-Finance,0,,False
+laia.vidal@northwind.example,Laia Vidal,N-10406,True,2026-10-24T10:18:00Z,Marketing,Marketing Specialist,carla.mir@northwind.example,ES,SPE_E3,SG-Marketing;SG-Adobe-CC-Users;SG-Site-BCN;SG-All-Staff,0,,False
+lucia.ferrer2@northwind.example,Lucía Ferrer,N-10342,True,2026-10-30T14:02:00Z,Sales,Account Manager,alberto.nieto@northwind.example,ES,SPE_E3,SG-Sales;SG-CRM-Users;SG-Site-MAD;SG-All-Staff;DL-Sales-MAD,0,,False
+lucia.ferrer@northwind.example,Lucía Ferrer,N-10342,False,2023-03-06T09:12:00Z,Sales,Sales Executive,alberto.nieto@northwind.example,ES,,,2,,False
+marta.gil@northwind.example,Marta Gil,N-10404,True,2026-10-21T17:18:00Z,Operations,Warehouse Supervisor,carmen.ruiz@northwind.example,ES,SPE_E3,SG-Warehouse-VLC;SG-Warehouse-Supervisors;SG-Site-VLC;SG-All-Staff,0,,False
+miguel.cano@northwind.example,Miguel Ángel Cano,N-10423,True,2026-11-04T11:25:00Z,Operations,Warehouse Operative,pablo.navarro@northwind.example,ES,SPE_F1,SG-Warehouse-VLC;SG-Site-VLC,0,,False
+nerea.vega@northwind.example,Nerea Vega,N-10421,True,2026-11-05T16:12:00Z,Finance,Financial Analyst,jordi.puig@northwind.example,ES,,SG-Finance;SG-Finance-Reports;SG-Site-BCN;SG-All-Staff;DL-Finance,0,,False
+nuno.costa@northwind.example,Nuno Costa,N-10410,True,2026-10-29T11:14:00Z,HR,HR Advisor,patricia.lozano@northwind.example,PT,SPE_E3,SG-HR;SG-Site-LIS;SG-All-Staff,0,,False
+oscar.rubio@northwind.example,Óscar Rubio,N-10416,True,2026-11-01T09:04:00Z,Sales,Account Manager,nuria.font@northwind.example,ES,SPE_E3,SG-Sales;SG-CRM-Users;SG-Site-BCN;SG-All-Staff;DL-Sales-BCN,0,,False
+pau.serra@northwind.example,Pau Serra,N-10409,True,2026-10-28T13:09:00Z,Finance,Financial Analyst,jordi.puig@northwind.example,,,SG-Finance;SG-Finance-Reports;SG-Site-BCN;SG-All-Staff;DL-Finance,0,,False
+raquel.soto@northwind.example,Raquel Soto,N-10422,True,2026-11-05T10:12:00Z,Operations,Warehouse Operative,pablo.navarro@northwind.example,ES,SPE_F1,SG-Warehouse-VLC;SG-Site-VLC,0,,False
+rui.almeida@northwind.example,Rui Almeida,N-10403,True,2026-10-20T10:31:00Z,Sales,Account Manager,ana.sousa@northwind.example,PT,SPE_E3,SG-Sales;SG-CRM-Users;SG-Site-LIS;SG-All-Staff;DL-Sales-LIS,0,,False
+sara.leon@northwind.example,Sara León,N-10413,True,2026-10-28T10:01:00Z,Sales,Account Manager,alberto.nieto@northwind.example,ES,SPE_E3,SG-Sales;SG-CRM-Users;SG-Site-MAD;SG-All-Staff;DL-Sales-MAD,0,,False
+sergio.pastor@northwind.example,Sergio Pastor,N-10405,True,2026-10-23T11:12:00Z,Finance,Financial Analyst,jordi.puig@northwind.example,ES,SPE_E3,SG-Finance;SG-Finance-Reports;SG-Site-BCN;SG-All-Staff;DL-Finance,0,,False
+tomas.delgado@northwind.example,Tomás Delgado,N-10418,True,2026-11-03T11:52:00Z,Trading,Trading Assistant,javier.ortega@northwind.example,ES,,SG-Trading-Support;SG-Site-MAD;SG-All-Staff;DL-Trading,0,,False

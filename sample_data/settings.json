@@ -1,0 +1,54 @@
+{
+  "organisation": "Northwind Traders",
+  "as_of": "2026-11-09 08:30",
+  "horizon_days": 10,
+  "lead_time_days": 10,
+  "urgent_days": 3,
+  "holidays": [
+    "2026-12-08",
+    "2026-12-25"
+  ],
+  "enable_on_start": false,
+  "hybrid": false,
+  "mfa_own_phone_allowed": true,
+  "fix_days": {
+    "account": 1,
+    "licence": 1,
+    "licence_purchase": 3,
+    "groups": 1,
+    "access_request": 3,
+    "access_approval": 2,
+    "access_fulfil": 1,
+    "device_build": 2,
+    "device_order": 5,
+    "phone": 2,
+    "mfa": 0,
+    "data": 0
+  },
+  "licence_available": {},
+  "sku_names": {
+    "SPE_E3": "Microsoft 365 E3",
+    "SPE_E5": "Microsoft 365 E5",
+    "SPE_F1": "Microsoft 365 F3"
+  },
+  "privileged_groups": [
+    "Domain Admins",
+    "Enterprise Admins"
+  ],
+  "privileged_patterns": [
+    "admins",
+    "administrators",
+    "privileged",
+    "pim-"
+  ],
+  "owners": {
+    "hr": "HR onboarding (Patricia Lozano)",
+    "identity": "Service desk (Rubén Iglesias)",
+    "licensing": "Microsoft 365 licensing (Rubén Iglesias)",
+    "workplace": "Workplace (Nadia Kovač)",
+    "mobile": "Mobile devices (Nadia Kovač)",
+    "access": "Application owner",
+    "security": "IAM (Teresa Vidal)"
+  },
+  "next_call": "2026-11-16"
+}
